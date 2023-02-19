@@ -18,5 +18,8 @@
         <li>
             ViteJS
         </li>
+        <li>
+            MathJS
+        </li>
     </ul>
 </h3>
